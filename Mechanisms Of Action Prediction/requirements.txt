@@ -5,3 +5,5 @@ matplotlib
 imblearn
 scikit-learn
 sklearn-dummies
+upgrade-pip
+
